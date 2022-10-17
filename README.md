@@ -12,6 +12,11 @@
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeteenager)
 
+<ul>
+<li><a href="https://codeteenager.github.io/theia-analysis/" target="black">Eclipse Theia技术解析</a></li>
+
+</ul>
+
 <!--
 **codeteenager/codeteenager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
