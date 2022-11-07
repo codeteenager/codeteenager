@@ -12,6 +12,8 @@
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeteenager)
 
+[Github Docs](https://docs.github.com/cn)
+
 <h2>技术文章</h2>
 <ul>
 <li><a href="https://codeteenager.github.io/theia-analysis/" target="_blank">Eclipse Theia技术解析</a></li>
