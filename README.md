@@ -31,7 +31,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeteenager&layout=compact)
 
 ### Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeteenager&repo=ebook&theme=buefy)](https://github.com/codeteenager/ebook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeteenager&repo=ebook)](https://github.com/codeteenager/ebook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeteenager&repo=interview)](https://github.com/codeteenager/interview)
 
 <h2>技术文章</h2>
 <ul>
