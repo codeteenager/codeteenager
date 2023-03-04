@@ -37,6 +37,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeteenager&repo=theia-analysis)](https://github.com/codeteenager/theia-analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeteenager&repo=miniprogram)](https://github.com/codeteenager/miniprogram)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeteenager&repo=DeviceManager)](https://github.com/codeteenager/DeviceManager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeteenager&repo=performance)](https://github.com/codeteenager/performance)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeteenager&repo=Micro-Frontends)](https://github.com/codeteenager/Micro-Frontends)
 
 <h2>技术文章</h2>
 <ul>
