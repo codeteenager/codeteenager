@@ -10,10 +10,10 @@
   
   
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeteenager)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeteenager&theme=dark&layout=compact)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeteenager&theme=dark&layout=compact)
 
-[Github Docs](https://docs.github.com/cn)
+
 
 <h2>技术文章</h2>
 <ul>
