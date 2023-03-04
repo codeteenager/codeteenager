@@ -11,6 +11,7 @@
   
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeteenager)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeteenager&theme=dark&layout=compact)
 
 [Github Docs](https://docs.github.com/cn)
 
