@@ -34,7 +34,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeteenager&repo=FE)](https://github.com/codeteenager/FE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeteenager&repo=ebook)](https://github.com/codeteenager/ebook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeteenager&repo=interview)](https://github.com/codeteenager/interview)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeteenager&repo=theia-analysis)](https://github.com/codeteenager/thia-analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeteenager&repo=theia-analysis)](https://github.com/codeteenager/theia-analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeteenager&repo=miniprogram)](https://github.com/codeteenager/miniprogram)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeteenager&repo=DeviceManager)](https://github.com/codeteenager/DeviceManager)
 
