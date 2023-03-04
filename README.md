@@ -13,11 +13,11 @@
   
 ### 📚 All Skills
 
-![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,twitter,stackoverflow,vercel,figma,vscode,idea,vim,atom,js,ts,html,css,c,bootstrap,jquery,nodejs,python,java,react,vue,tailwind,spring,nextjs,maven,mongo,redis,mysql,fastapi,flask,md,regex,aws,azure,linux,bash,docker,kubernetes,ansible,grafana,prometheus,nginx,jenkins)
+![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,twitter,stackoverflow,vscode,idea,js,ts,html,css,bootstrap,jquery,nodejs,java,react,vue,spring,nextjs,mongo,redis,mysql,linux,bash,docker,kubernetes,nginx,jenkins)
 
 ### 💻 Activity Graph
 
-![](https://activity-graph.herokuapp.com/graph?username=codeteenager&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+[![姜帅杰's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=codeteenager&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 😜 Commit Stats
 
