@@ -1,4 +1,5 @@
 ## Hi, 👋  I'm <a href="https://www.jiangshuaijie.cn/" target="_blank">JIANG SHUAI JIE (codeteenageer)</a> 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=codeteenager)](https://git.io/streak-stats)
 
 ### 🌏 Some Links
 
