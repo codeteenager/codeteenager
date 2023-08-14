@@ -1,6 +1,9 @@
 ## Hi, 👋  I'm <a href="https://www.jiangshuaijie.cn/" target="_blank">JIANG SHUAI JIE (codeteenageer)</a> 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=codeteenager)](https://git.io/streak-stats)
 
+### 微信公众号
+<img src="./weixin.jpeg" width="200" height="200" alt="微信公众号"/>
+
 ### 🌏 Some Links
 
 <!-- 个人资料徽标 -->
