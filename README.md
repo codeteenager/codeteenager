@@ -2,7 +2,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=codeteenager)](https://git.io/streak-stats)
 
 ### 微信公众号
-<img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/98e1136777de40b7b2ca5d8b5e15c5f2~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.avis" width="200" height="200" alt="微信公众号"/>
+<img src="./weixin.jpg" width="200" height="200" alt="微信公众号"/>
 
 ### 🌏 Some Links
 
