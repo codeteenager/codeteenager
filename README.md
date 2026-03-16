@@ -1,4 +1,7 @@
 ## Hi, 👋  I'm <a href="https://www.jiangshuaijie.cn/" target="_blank">JIANG SHUAI JIE (codeteenageer)</a> 
+> 全栈开发者 · 开源爱好者
+> 🤖 现深耕 **AI 应用开发**，探索 LLM 与前端工具的融合  
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=codeteenager)](https://git.io/streak-stats)
 
 ## 独立产品
